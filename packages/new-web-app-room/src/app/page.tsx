@@ -22,7 +22,17 @@ const dadJokes = [
   "What do you call a sleeping bull? A bulldozer!",
   "Why don't oysters donate? Because they are shellfish!",
   "What did the ocean say to the beach? Nothing, it just waved!",
-  "Why did the cookie go to the doctor? Because it felt crumbly!"
+  "Why did the cookie go to the doctor? Because it felt crumbly!",
+  "What do you call a fish wearing a crown? A king fish!",
+  "Why did the banana go to the doctor? It wasn't peeling well!",
+  "What's orange and sounds like a parrot? A carrot!",
+  "Why don't programmers like nature? It has too many bugs!",
+  "What do you call a cow with no legs? Ground beef!",
+  "Why did the golfer bring two pairs of pants? In case he got a hole in one!",
+  "What do you call a factory that makes okay products? A satisfactory!",
+  "Why did the tomato turn red? Because it saw the salad dressing!",
+  "What do you call a belt made of watches? A waist of time!",
+  "Why don't scientists trust stairs? Because they're always up to something!"
 ];
 
 const commands = {
@@ -186,4 +196,5 @@ export default function DadJokesTerminal() {
     </div>
   );
 }
+
 
